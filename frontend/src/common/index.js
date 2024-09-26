@@ -1,4 +1,4 @@
-const backendDomin =  "http://localhost:8080";
+const backendDomin =  "https://shopping-app-mern.onrender.com";
 const SummaryApi = {
     signUP : {
         url : `${backendDomin}/api/signup`,
